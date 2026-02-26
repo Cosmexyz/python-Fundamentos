@@ -1,6 +1,8 @@
 print('ola!')
-dia = input('qual o dia que você nasceu?')
-mes = input('qual o mes que você nasceu?')
-ano = input('qual o ano que voCê nasceu?')
-print('você nasceu no dia:' , dia , ',' + ' mes:' , mes + ' e' , 'ano:' , ano , ', ' + 'correto?')
-      
+num1 = int(input('qual o primeiro numero?'))
+num2 = int(input('qual o segundo numero?'))
+soma = num1 + num2
+# forma antiga print('a soma entre:', num1 , 'e' , num2 , "é igual a" , soma )
+print('a soma entre {} e {} é igual a {}'.format( num1 , num2 , soma))
+
+
