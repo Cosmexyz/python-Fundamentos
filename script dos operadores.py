@@ -7,5 +7,5 @@ multi = n1 * n2
 potencia = n1 ** n2
 restoDiv = n1 // n2 
 divInt = n1 % n2
-raizQ = n1 + n2
+raizQ = n1 ** n2(1/2)
 print('a soma é: {} \na subtra é: {} \na divisao é: {} \na multi é: {} \na potencia é: {} \no resto de divisao é: {} \na dvisao interira é: {} \na raizQ é: {}: '.format(soma, subtra, divisao, multi, potencia, restoDiv, divInt, raizQ**(1/2)))
