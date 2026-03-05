@@ -3,4 +3,5 @@ nota2 = float(input('digite sua segunda nota '))
 nota3 = float(input('digite sua terceira nota '))
 media = (nota1 + nota2 + nota3) / 3
 
-print('sua media final é: {:.2f} '.format(media))
+print('sua media final é: {:.1f} '.format(media))
+
