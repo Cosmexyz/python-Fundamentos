@@ -12,19 +12,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Cálculo de média
 - Conversão de unidades
 - Manipulação de números
-- Scripts simples com input()
-
-## 📂 Estrutura
-
-01 - Hello World  
-02 - Antes e Depois de um Número  
-03 - Operadores  
-04 - Cálculo de Média  
-05 - Conversor de Metros  
-06 - Dobro, Triplo e Raiz  
-07 - Soma de Números  
-08 - Nome, Idade e Peso  
-09 - Ler Ano de Nascimento  
+- Scripts simples com input() 
 
 ## 🎯 Próximos Passos
 
