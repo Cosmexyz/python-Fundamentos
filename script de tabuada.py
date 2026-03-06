@@ -1,6 +1,6 @@
 print('<<< BEM VINDO A TABOADA SIMPLES >>>')
 valorI = int(input('digite para ver sua tabuada '))
-print('---------------')
+print('-' * 15)
 multi1 = valorI * 1
 multi2 = valorI * 2
 multi3 = valorI * 3
@@ -21,4 +21,5 @@ print('{} x 7  = {}'.format(valorI, multi7))
 print('{} x 8  = {}'.format(valorI, multi8))
 print('{} x 9  = {}'.format(valorI, multi9))
 print('{} x 10 = {}'.format(valorI, multi10))
-print('---------------')
+print('-' * 15)
+
