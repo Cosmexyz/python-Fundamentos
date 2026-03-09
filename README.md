@@ -12,7 +12,8 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Cálculo de média
 - Conversão de unidades
 - Manipulação de números
-- Scripts simples com input() 
+- Scripts simples com input()
+- Módulos e blibiotecas
 
 ## 🎯 Próximos Passos
 
