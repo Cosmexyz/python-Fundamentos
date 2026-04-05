@@ -1,0 +1,10 @@
+nome_completo = str(input('Qual o seu NOME:\n'))
+separar_nome = nome_completo.split()
+
+print('-' * 30)
+print('Analisando seu nome...')
+print('Nome todo em MAIÚSCULO: {}'.format(nome_completo.upper().strip()))
+print('Nome todo em MINÚSCULO: {}'.format(nome_completo.lower().strip()))
+print('A quantidade de letras no seu nome é: {}'.format(len(''.join(separar_nome))))
+print('A quantidade de letras no seu primeiro nome é: {}'.format(len(separar_nome[0])))
+print('-' * 30)
