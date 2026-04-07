@@ -40,8 +40,8 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
   - tocador_MP3
     
 - Analisador de texto
- - separador_digitos
- - manipulação_texto
+  - separador_digitos
+  - manipulação_texto
 
 - Estruturas condicionais / Estruturas de repetição
   - semaforo
