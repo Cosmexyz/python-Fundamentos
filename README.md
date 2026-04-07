@@ -5,7 +5,7 @@ Repositório com meus estudos e evolução em Python.
 ## 📚 Objetivo
 Construir uma base sólida em lógica de programação e fundamentos da linguagem Python, com foco em longo prazo para atuar como engenheiro de software.
 
-## 🧠 Conteúdos + Questões Realizdas 
+## 🧠 Conteúdos + Questões Realizadas 
 
 - Tipos Primitivos e Saida de Dados
   - hello world
