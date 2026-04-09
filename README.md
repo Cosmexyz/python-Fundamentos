@@ -28,7 +28,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
   - mostra_num_maior
   - nascimneto
     
-- Modulos / Blibiotecas
+- Modulos / Bibliotecas
   - real_Para_Inteiro
   - cateto_e_hipotenusa
   - seno_cosseno_tangente
