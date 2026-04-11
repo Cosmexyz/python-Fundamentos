@@ -42,6 +42,10 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Analisador de texto
   - separador_digitos
   - manipulação_texto
+  - primeira_e_ultima_ocorrencia.py
+  - primeiro_ultimo_nome.py
+  - encontrar_substring.py
+  - verificando_nome_cidade.py
 
 - Estruturas condicionais / Estruturas de repetição
   - semaforo
